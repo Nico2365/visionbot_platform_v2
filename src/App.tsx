@@ -1,11 +1,10 @@
-
-import React from 'react';
+import React from "react";
 
 function App() {
   return (
-    <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
+    <div>
       <h1>VisionBot Dashboard</h1>
-      <p>Willkommen zur Überwachungsplattform des Bots.</p>
+      <p>Bereit für den nächsten Trade!</p>
     </div>
   );
 }
