@@ -11,7 +11,13 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@vitejs/plugin-react": "^4.1.0",
     "vite": "^5.4.0"
+=======
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.4.19"
+>>>>>>> 1e32c5e (Fix: Add vite build config)
   }
 }
